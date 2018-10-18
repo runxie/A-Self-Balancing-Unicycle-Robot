@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PE1 Pin=CN1-19
+Removed Pin From Net: NetName=PE0 Pin=CN1-20
+Added Component: Designator=C13(3528C(1210))
+Added Pin To Net: NetName=VDDA Pin=C13-1
+Added Pin To Net: NetName=SGND Pin=C13-2
+Added Pin To Net: NetName=PE0 Pin=CN1-19
+Added Pin To Net: NetName=PE1 Pin=CN1-20
+Added Member To Class: ClassName=STM32 Member=Component C13 10uF
+Added Room: Name=STM32

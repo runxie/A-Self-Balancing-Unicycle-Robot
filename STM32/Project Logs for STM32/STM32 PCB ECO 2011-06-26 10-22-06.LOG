@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=DS1-K
+Removed Pin From Net: NetName=PC9 Pin=R6-1
+Removed Member From Class: ClassName=STM32 Member=DS1
+Removed Member From Class: ClassName=STM32 Member=DS1
+Removed Member From Class: ClassName=STM32 Member=R6
+Removed Member From Class: ClassName=STM32 Member=R6

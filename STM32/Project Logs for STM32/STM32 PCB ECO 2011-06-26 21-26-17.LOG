@@ -1,0 +1,9 @@
+Removed Member From Class: ClassName=STM32 Member=LCD 1
+Added Component: Designator=LCD(SIP7-2.54)
+Added Pin To Net: NetName=GND Pin=LCD-1
+Added Pin To Net: NetName=PE13 Pin=LCD-2
+Added Pin To Net: NetName=PB13 Pin=LCD-3
+Added Pin To Net: NetName=PB15 Pin=LCD-5
+Added Pin To Net: NetName=PE15 Pin=LCD-6
+Added Pin To Net: NetName=+5V Pin=LCD-7
+Added Member To Class: ClassName=STM32 Member=Component LCD SIP7

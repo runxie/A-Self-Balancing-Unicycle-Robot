@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C4 Old Footprint=0805C New Footprint=0603C
+Change Component Footprint: Designator=C5 Old Footprint=0805C New Footprint=0603C
+Change Component Footprint: Designator=C6 Old Footprint=0805C New Footprint=0603C
+Change Component Footprint: Designator=C7 Old Footprint=0805C New Footprint=0603C
+Change Component Footprint: Designator=C8 Old Footprint=0805C New Footprint=0603C
+Added Room: Name=STM32

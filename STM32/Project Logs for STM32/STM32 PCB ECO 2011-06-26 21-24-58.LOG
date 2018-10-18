@@ -1,0 +1,41 @@
+Added Component: Designator=C13(3528C(1210))
+Added Component: Designator=Key(SIP8-2.54)
+Added Component: Designator=LCD 1(SIP7-2.54)
+Added Component: Designator=POWER_5V(JK128-500-2P)
+Added Component: Designator=SPI_TDC(SIP5-2.54)
+Added Component: Designator=TIM_LASER(SIP2-2.54)
+Added Component: Designator=TIM_MOTOR(SIP2-2.54)
+Added Component: Designator=USART_PC(SIP3-2.54)
+Added Pin To Net: NetName=VDDA Pin=C13-1
+Added Pin To Net: NetName=SGND Pin=C13-2
+Added Pin To Net: NetName=PD15 Pin=Key-1
+Added Pin To Net: NetName=PD14 Pin=Key-2
+Added Pin To Net: NetName=PD13 Pin=Key-3
+Added Pin To Net: NetName=PD12 Pin=Key-4
+Added Pin To Net: NetName=PD11 Pin=Key-5
+Added Pin To Net: NetName=PD10 Pin=Key-6
+Added Pin To Net: NetName=PD9 Pin=Key-7
+Added Pin To Net: NetName=PD8 Pin=Key-8
+Added Pin To Net: NetName=+5V Pin=POWER_5V-1
+Added Pin To Net: NetName=GND Pin=POWER_5V-2
+Added Pin To Net: NetName=GND Pin=SPI_TDC-1
+Added Pin To Net: NetName=PA7 Pin=SPI_TDC-2
+Added Pin To Net: NetName=PA6 Pin=SPI_TDC-3
+Added Pin To Net: NetName=PA5 Pin=SPI_TDC-4
+Added Pin To Net: NetName=PA4 Pin=SPI_TDC-5
+Added Pin To Net: NetName=GND Pin=TIM_LASER-1
+Added Pin To Net: NetName=PB1 Pin=TIM_LASER-2
+Added Pin To Net: NetName=GND Pin=TIM_MOTOR-1
+Added Pin To Net: NetName=PB0 Pin=TIM_MOTOR-2
+Added Pin To Net: NetName=PA10 Pin=USART_PC-1
+Added Pin To Net: NetName=PA9 Pin=USART_PC-2
+Added Pin To Net: NetName=GND Pin=USART_PC-3
+Added Member To Class: ClassName=STM32 Member=Component C13 10uF
+Added Member To Class: ClassName=STM32 Member=Component Key SIP8
+Added Member To Class: ClassName=STM32 Member=Component LCD 1 LCD
+Added Member To Class: ClassName=STM32 Member=Component POWER_5V SIP2
+Added Member To Class: ClassName=STM32 Member=Component SPI_TDC SIP5
+Added Member To Class: ClassName=STM32 Member=Component TIM_LASER SIP2
+Added Member To Class: ClassName=STM32 Member=Component TIM_MOTOR SIP2
+Added Member To Class: ClassName=STM32 Member=Component USART_PC SIP3
+Added Room: Name=STM32

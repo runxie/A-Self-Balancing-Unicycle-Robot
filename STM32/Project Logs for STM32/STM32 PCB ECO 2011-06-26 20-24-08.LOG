@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SGND Pin=Power-K
+Added Pin To Net: NetName=GND Pin=Power-K
