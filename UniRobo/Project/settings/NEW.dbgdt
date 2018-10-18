@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>980</ColumnWidth1>
+        <ColumnWidth2>261</ColumnWidth2>
+        <ColumnWidth3>65</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>110</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><MixedMode>1</MixedMode><CodeCovShow>1</CodeCovShow><InstrProfShow>1</InstrProfShow></Disassembly>
+    <Watch><Format><struct_types/><watch_formats/></Format><Column0>162</Column0><Column1>301</Column1><Column2>100</Column2><Column3>100</Column3></Watch></Static>
+    <Windows>
+      
+      
+      
+    <Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15198-19860</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-25423-19873</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-25946-19864</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>NEW</ExpandedNode><ExpandedNode>NEW/CMSIS</ExpandedNode><ExpandedNode>NEW/Peripherals</ExpandedNode><ExpandedNode>NEW/StdPeriph_Lib</ExpandedNode><ExpandedNode>NEW/StdPeriph_Lib/I2C.c</ExpandedNode><ExpandedNode>NEW/StratUp</ExpandedNode><ExpandedNode>NEW/User</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5><Wnd6><Tabs><Tab><Identity>TabID-25090-4751</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>temp</Expression></Expression><Expression><Expression>readtemp</Expression></Expression><Expression><Expression>GyroX3Set</Expression></Expression><Expression><Expression>pBuffer</Expression></Expression><Expression><Expression>ReadAddr</Expression></Expression><Expression><Expression>GyroOutX1</Expression></Expression><Expression><Expression>angle</Expression></Expression><Expression><Expression>addr</Expression></Expression><Expression><Expression>temp</Expression></Expression><Expression><Expression>MotorCoderData</Expression></Expression><Expression><Expression>GyroOutX3</Expression></Expression><Expression><Expression>ControlData</Expression></Expression><Expression><Expression>Counter_Low</Expression></Expression><Expression><Expression>MotorCoderData</Expression></Expression><Expression><Expression>MotorCoderData2</Expression></Expression><Expression><Expression>TIMCompare1</Expression></Expression><Expression><Expression>LoopValue</Expression></Expression><Expression><Expression>GyroX3_SetOff_Loop</Expression></Expression><Expression><Expression>GyroX3_X_SetOff1</Expression></Expression><Expression><Expression>GyroX3_X_SetOff2</Expression></Expression><Expression><Expression>GyroX3_Y_SetOff1</Expression></Expression><Expression><Expression>GyroX3_Y_SetOff2</Expression></Expression><Expression><Expression>GyroX3_Z_SetOff1</Expression></Expression><Expression><Expression>GyroX3_Z_SetOff2</Expression></Expression><Expression><Expression>GyroX3_X_Scale_S</Expression></Expression><Expression><Expression>GyroX3_X_Scale_L</Expression></Expression><Expression><Expression>GyroX3_Y_Scale_S</Expression></Expression><Expression><Expression>GyroX3_Y_Scale_L</Expression></Expression><Expression><Expression>GyroX3_Z_Scale_S</Expression></Expression><Expression><Expression>GyroX3_Z_Scale_L</Expression></Expression><Expression><Expression>GyroX3_X_Test_Flag</Expression></Expression><Expression><Expression>GyroX3_Y_Test_Flag</Expression></Expression><Expression><Expression>GyroX3_Z_Test_Flag</Expression></Expression><Expression><Expression>Datatemp</Expression></Expression><Expression><Expression>byData</Expression></Expression><Expression><Expression>ADXL345temp</Expression></Expression><Expression><Expression>Datatemp</Expression></Expression><Expression><Expression>PWM</Expression></Expression><Expression><Expression>calculate</Expression></Expression><Expression><Expression>angleY</Expression></Expression><Expression><Expression>Counter</Expression></Expression></Expressions><TabId>0</TabId><Column0>162</Column0><Column1>301</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd6><Wnd7><Tabs><Tab><Identity>TabID-28453-30117</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd7></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\StdPeriph_Lib\inc\stm32f10x_tim.h</Filename><XPos>0</XPos><YPos>541</YPos><SelStart>23268</SelStart><SelEnd>23268</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\StdPeriph_Lib\src\stm32f10x_tim.c</Filename><XPos>0</XPos><YPos>1256</YPos><SelStart>47362</SelStart><SelEnd>47380</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Peripherals\key.c</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Peripherals\L3G4200D.c</Filename><XPos>0</XPos><YPos>48</YPos><SelStart>2179</SelStart><SelEnd>2179</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Peripherals\MotorCoder.c</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>946</SelStart><SelEnd>999</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Peripherals\MotorCoder.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>64</SelStart><SelEnd>64</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Peripherals\MotorCoder2.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Peripherals\MotorCoder2.c</Filename><XPos>0</XPos><YPos>21</YPos><SelStart>994</SelStart><SelEnd>994</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\StdPeriph_Lib\src\stm32f10x_i2c.c</Filename><XPos>0</XPos><YPos>1014</YPos><SelStart>34293</SelStart><SelEnd>34293</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Peripherals\I2C.c</Filename><XPos>0</XPos><YPos>125</YPos><SelStart>9745</SelStart><SelEnd>9745</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Peripherals\Bar.c</Filename><XPos>0</XPos><YPos>70</YPos><SelStart>2493</SelStart><SelEnd>2493</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\User\main.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>377</SelStart><SelEnd>377</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Peripherals\Motor.h</Filename><XPos>0</XPos><YPos>32</YPos><SelStart>1021</SelStart><SelEnd>1021</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Peripherals\Motor.c</Filename><XPos>0</XPos><YPos>144</YPos><SelStart>4852</SelStart><SelEnd>4864</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\StdPeriph_Lib\src\Delay.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Peripherals\ADXL345.c</Filename><XPos>0</XPos><YPos>63</YPos><SelStart>965</SelStart><SelEnd>965</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\Peripherals\LCD_Dis.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\StdPeriph_Lib\src\stm32f10x_gpio.c</Filename><XPos>0</XPos><YPos>363</YPos><SelStart>10831</SelStart><SelEnd>10831</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\User\stm32f10x_conf.h</Filename><XPos>0</XPos><YPos>35</YPos><SelStart>1535</SelStart><SelEnd>1535</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\StdPeriph_Lib\inc\stm32f10x_gpio.h</Filename><XPos>0</XPos><YPos>132</YPos><SelStart>5307</SelStart><SelEnd>5307</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\User\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>705</SelStart><SelEnd>705</SelEnd></Tab><ActiveTab>20</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-02739ee8><key>iaridepm.enu1</key></Toolbar-02739ee8></Sizes></Row0><Row1><Sizes><Toolbar-1072afb0><key>armjlink.enu1</key></Toolbar-1072afb0><Toolbar-1072aee8><key>debuggergui.enu1</key></Toolbar-1072aee8></Sizes></Row1></Top><Left><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>544</Bottom><Right>201</Right><x>-2</x><y>-2</y><xscreen>964</xscreen><yscreen>789</yscreen><sizeHorzCX>705710</sizeHorzCX><sizeHorzCY>1150146</sizeHorzCY><sizeVertCX>148609</sizeVertCX><sizeVertCY>795918</sizeVertCY></Rect></Wnd5></Sizes></Row0></Left><Right><Row0><Sizes><Wnd6><Rect><Top>-2</Top><Left>-2</Left><Bottom>544</Bottom><Right>222</Right><x>-2</x><y>-2</y><xscreen>470</xscreen><yscreen>769</yscreen><sizeHorzCX>344070</sizeHorzCX><sizeHorzCY>1120991</sizeHorzCY><sizeVertCX>163982</sizeVertCX><sizeVertCY>795918</sizeVertCY></Rect></Wnd6></Sizes></Row0><Row1><Sizes><Wnd7><Rect><Top>-2</Top><Left>220</Left><Bottom>544</Bottom><Right>469</Right><x>220</x><y>-2</y><xscreen>282</xscreen><yscreen>357</yscreen><sizeHorzCX>206442</sizeHorzCX><sizeHorzCY>520408</sizeHorzCY><sizeVertCX>182284</sizeVertCX><sizeVertCY>795918</sizeVertCY></Rect></Wnd7></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>73</Bottom><Right>1368</Right><x>-2</x><y>-2</y><xscreen>1370</xscreen><yscreen>75</yscreen><sizeHorzCX>1002928</sizeHorzCX><sizeHorzCY>109329</sizeHorzCY><sizeVertCX>705710</sizeVertCX><sizeVertCY>1150146</sizeVertCY></Rect></Wnd4></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
