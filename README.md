@@ -3,3 +3,6 @@
 #### •	Developed the PID control algorithm, multi-sensor fusion algorithm.
 #### •	Implemented circuits design and conducted mechanical works.
 #### •	Programmed in C.
+![](https://github.com/runxie/A-Self-Balancing-Unicycle-Robot/blob/master/Photos%20%26%20Videos/IMG_1184.mp4)
+![](https://github.com/runxie/A-Self-Balancing-Unicycle-Robot/blob/master/Photos%20%26%20Videos/20181018005942.jpg)
+![](https://github.com/runxie/A-Self-Balancing-Unicycle-Robot/blob/master/Photos%20%26%20Videos/IMG_1183.JPG)
